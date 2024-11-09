@@ -987,8 +987,8 @@ small {
   margin-top: -80px;
 }
 .btn-primary {
-  background-color: #ff5714 !important;
-  border: 1px solid #ff5714 !important;
+  background-color: hsl(187, 75%, 64%)  !important;
+  border: 1px solid #60d8e8  !important;
   color: #fff !important;
 }
 .btn-primary:hover,
@@ -996,22 +996,22 @@ small {
 .btn-primary:active,
 .btn-primary.active,
 .btn-primary.focus {
-  background-color: #e04000 !important;
-  border-color: #e04000 !important;
+  background-color: #60d8e8 !important;
+  border-color: #60d8e8 !important;
   color: #fff !important;
 }
 .btn-soft-primary {
   background-color: rgba(255, 87, 20, 0.1) !important;
   border: 1px solid rgba(255, 87, 20, 0.1) !important;
-  color: #ff5714 !important;
+  color: #60d8e8 !important;
 }
 .btn-soft-primary:hover,
 .btn-soft-primary:focus,
 .btn-soft-primary:active,
 .btn-soft-primary.active,
 .btn-soft-primary.focus {
-  background-color: #ff5714 !important;
-  border-color: #ff5714 !important;
+  background-color: #60d8e8 !important;
+  border-color: #60d8e8 !important;
   color: #fff !important;
 }
 .btn-outline-primary {
